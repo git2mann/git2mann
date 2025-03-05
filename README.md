@@ -1,28 +1,28 @@
 # Hi, I'm Klense! 👋  
 
-Welcome to my GitHub! My work spans **software development, AI, and music**, blending creativity with technical precision. I approach every project with a **problem-solving mindset**, whether it's building scalable applications, experimenting with AI, or crafting sonic landscapes.  
+I build, I create, I refine. My work spans **software development, AI, and music**, blending creativity with technical precision. I approach every project with a **problem-solving mindset**, whether it's building scalable applications, experimenting with AI, or crafting sonic landscapes.  
 
 ## 🔥 What I'm Currently Working On  
 
-- 🚀 **Building a portfolio website** to showcase my **coding projects, music, and blogs**.  
+- 🚀 **Building a portfolio website** to showcase my **coding projects, music, and blogs**.
+- 🛒 **Developing a web-based barcode scanner to assist local Kenyan kiosks in speedy inventory management**.
 - 🎶 **Developing a personal AI music generator**, pushing the boundaries of AI-assisted composition.  
-- 🧠 **Creating a therapy-based web app** that connects user emotions with **relevant Bible quotes**.  
 - 📊 **Exploring anomaly detection in university exams** using statistical and mathematical models.  
 
 ## 🛠️ Skills  
 
 ### **Languages**  
 - 🐍 Python  
-- ⚡ JavaScript  
-- 🎯 Dart  
-- 💻 C++, Java, C#  
+- ⚡ JavaScript
+- 📱 Kotlin
+- 💻 C++
+- ☕️ Java  
 
 ### **Frameworks & Tools**  
-- 🎨 Flutter, Laravel  
+- 🎨 Laravel, React, Next  
 - 📊 Pandas, NumPy, TensorFlow  
 
-### **Databases**  
-- 🔥 Firebase  
+### **Databases**
 - 🗄️ MySQL, SQLite  
 
 ## 🎯 Goals  
@@ -36,4 +36,4 @@ Welcome to my GitHub! My work spans **software development, AI, and music**, ble
 
 Always open to **collaborations, discussions, and new ideas**. Let's build something great together!  
 
-📫 **Reach me at:** (Your Preferred Contact Info)  
+📫 **Reach me at:** nduatileon@gmail.com
