@@ -1,6 +1,6 @@
 # Hi, I'm Klense! 👋  
 
-I build, I create, I refine. My work spans **software development, AI, and music**, blending creativity with technical precision. I approach every project with a **problem-solving mindset**, whether it's building scalable applications, experimenting with AI, or crafting sonic landscapes.  
+I build, I create, I refine. My work spans **software development, AI, and music**, blending creativity with technical precision. I'm looking to branch into hardware engineering soon as the next logical step in my journey. I approach every project with a **problem-solving mindset**, whether it's building scalable applications, experimenting with AI, or crafting sonic landscapes.  
 
 ## 🔥 What I'm Currently Working On  
 
