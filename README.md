@@ -1,4 +1,6 @@
-# Hi, I'm Klense! 👋  
+# Hi, I'm Leon Nduati! 👋  
+
+(also known as Klense)
 
 I build, I create, I refine. My work spans **software development, AI, and music**, blending creativity with technical precision. I'm looking to branch into hardware engineering soon as the next logical step in my journey. I approach every project with a **problem-solving mindset**, whether it's building scalable applications, experimenting with AI, or crafting sonic landscapes.  
 
@@ -12,18 +14,19 @@ I build, I create, I refine. My work spans **software development, AI, and music
 ## 🛠️ Skills  
 
 ### **Languages**  
-- 🐍 Python  
+- 🐍 Python
+- ☕️ Java
 - ⚡ JavaScript
 - 📱 Kotlin
 - 💻 C++
-- ☕️ Java  
+- #️⃣ C#  
 
 ### **Frameworks & Tools**  
 - 🎨 Laravel, React, Next  
 - 📊 Pandas, NumPy, TensorFlow  
 
 ### **Databases**
-- 🗄️ MySQL, SQLite  
+- 🗄️ MySQL, SQLite, PostgreSQL
 
 ## 🎯 Goals  
 
@@ -37,3 +40,4 @@ I build, I create, I refine. My work spans **software development, AI, and music
 Always open to **collaborations, discussions, and new ideas**. Let's build something great together!  
 
 📫 **Reach me at:** nduatileon@gmail.com
+or better yet... **visit my portfolio website:** nduatileon.site
