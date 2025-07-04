@@ -40,4 +40,4 @@ I build, I create, I refine. My work spans **software development, AI, and music
 Always open to **collaborations, discussions, and new ideas**. Let's build something great together!  
 
 📫 **Reach me at:** nduatileon@gmail.com
-or better yet... **visit my portfolio website:** nduatileon.site
+or better yet… **visit my portfolio website:** [nduatileon.site](https://nduatileon.site)
