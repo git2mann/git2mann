@@ -2,6 +2,12 @@
 
 (also known as Klense)
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/git2mann)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git2mann)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=git2mann&show_icons=true&count_private=true)  
+
 I build, I create, I refine. My work spans **software development, AI, and music**, blending creativity with technical precision. I'm looking to branch into hardware engineering soon as the next logical step in my journey. I approach every project with a **problem-solving mindset**, whether it's building scalable applications, experimenting with AI, or crafting sonic landscapes.  
 
 ## 🔥 What I'm Currently Working On  
