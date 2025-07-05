@@ -1,47 +1,63 @@
-# Hi, I'm Leon Nduati! 👋  
+# 👋 Hi, I'm Leon Nduati  
+**aka Klense — creative technologist, developer, and musician**
 
-(also known as Klense)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git2mann&layout=compact&hide=css,html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=git2mann&show_icons=true&count_private=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git2mann)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=git2mann&show_icons=true&count_private=true)  
+## 🚀 About Me
 
-I build, I create, I refine. My work spans **software development, AI, and music**, blending creativity with technical precision. I'm looking to branch into hardware engineering soon as the next logical step in my journey. I approach every project with a **problem-solving mindset**, whether it's building scalable applications, experimenting with AI, or crafting sonic landscapes.  
+I build, I create, I refine.
 
-## 🔥 What I'm Currently Working On  
+My work spans **software engineering, AI, and music**, blending artistic intuition with technical precision. I thrive at the intersection of logic and creativity—whether I'm architecting full-stack applications, training machine learning models, designing interactive experiences, or composing sonic narratives.
 
-- 🚀 **Building a portfolio website** to showcase my **coding projects, music, and blogs**.
-- 🛒 **Developing a web-based barcode scanner to assist local Kenyan kiosks in speedy inventory management**.
-- 🎶 **Developing a personal AI music generator**, pushing the boundaries of AI-assisted composition.  
-- 📊 **Exploring anomaly detection in university exams** using statistical and mathematical models.  
+I’m currently exploring the next frontier: **hardware engineering**, to bring my ideas even closer to the physical world.
 
-## 🛠️ Skills  
+---
 
-### **Languages**  
-- 🐍 Python
-- ☕️ Java
-- ⚡ JavaScript
-- 📱 Kotlin
-- 💻 C++
-- #️⃣ C#  
+## 🔧 What I’m Building Right Now
 
-### **Frameworks & Tools**  
-- 🎨 Laravel, React, Next  
-- 📊 Pandas, NumPy, TensorFlow  
+- 🛠 **Personal Portfolio** — A home for my dev projects, music, and written ideas.
+- 🛒 **Web-Based Barcode Scanner** — Lightweight PWA for inventory tracking in local Kenyan kiosks.
+- 🎵 **AI Music Generator** — Exploring neural synthesis and generative composition tools.
+- 🧠 **Anomaly Detection for Exams** — Using statistics and ML to flag suspicious grading patterns.
 
-### **Databases**
-- 🗄️ MySQL, SQLite, PostgreSQL
+---
 
-## 🎯 Goals  
+## 💻 Tech Stack
 
-- **Craft intelligent, scalable solutions** that solve real-world problems.  
-- **Advance in AI and data science**, leveraging statistical insights in new domains.  
-- **Bridge technology and creativity**, especially in music and interactive media.  
-- **Engage with open-source projects** and contribute meaningful innovations.  
+### Languages  
+`Python` • `JavaScript` • `Java` • `Kotlin` • `C++` • `C#`
 
-## 🤝 Connect & Collaborate  
+### Frameworks & Tools  
+`React` • `Next.js` • `Laravel` • `SwiftUI` • `Flask` • `Unity` • `Node.js`
 
-Always open to **collaborations, discussions, and new ideas**. Let's build something great together!  
+### AI / Data Science  
+`TensorFlow` • `Pandas` • `NumPy` • `Scikit-learn`
 
-📫 **Reach me at:** nduatileon@gmail.com
-or better yet… **visit my portfolio website:** [nduatileon.site](https://nduatileon.site)
+### Databases  
+`PostgreSQL` • `MySQL` • `SQLite`
+
+---
+
+## 🎯 Goals
+
+- Build **scalable, human-centered solutions** to real-world problems.  
+- Deepen expertise in **AI, security, and embedded systems**.  
+- Fuse **technology and creativity** through music tech, interactive media, and tools for expression.  
+- Make **open-source contributions** that matter.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to **collaborations**, **projects**, and **deep conversations**.
+
+📫 Email me: **nduatileon@gmail.com**  
+🌐 Explore more at: [**nduatileon.site**](https://nduatileon.site)
+
+---
+
+> “Creativity is intelligence having fun.” — Albert Einstein
+> 
