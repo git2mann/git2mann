@@ -2,8 +2,6 @@
 <h3 align="center"><em>I code. I compose. I connect creativity to computation.</em></h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=git2mann&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git2mann&layout=compact&hide=css,html&theme=radical" alt="Top Languages" />
 </p>
 
